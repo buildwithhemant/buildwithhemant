@@ -32,6 +32,12 @@ I help businesses build, fix and scale their software: from choosing the right t
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
+## Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [Webhook Relay](https://github.com/buildwithhemant/webhook-relay) | Receives webhooks from Stripe, Shopify, GitHub or any HMAC-signed sender, verifies signatures on the raw bytes, deduplicates, delivers with retries and backoff, replays on demand. Tested end to end, ships with Docker Compose and CI. | Node.js, TypeScript, Fastify, PostgreSQL, Docker |
+
 ## How I work
 
 - A short written plan first, so you know what you are paying for.
