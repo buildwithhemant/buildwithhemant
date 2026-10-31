@@ -38,6 +38,7 @@ I help businesses build, fix and scale their software: from choosing the right t
 |---|---|---|
 | [Webhook Relay](https://github.com/buildwithhemant/webhook-relay) | Receives webhooks from Stripe, Shopify, GitHub or any HMAC-signed sender, verifies signatures on the raw bytes, deduplicates, delivers with retries and backoff, replays on demand. Tested end to end, ships with Docker Compose and CI. | Node.js, TypeScript, Fastify, PostgreSQL, Docker |
 | [Secure File Vault](https://github.com/buildwithhemant/secure-file-vault) | Private file storage on AWS: KMS-encrypted S3 behind a Cognito-protected serverless API, presigned uploads and downloads, server-side verification of every upload, audit trail, least-privilege IAM. One `terraform apply`, zero Trivy findings. | AWS Lambda, S3, KMS, DynamoDB, Cognito, API Gateway, Terraform, TypeScript |
+| [E-commerce Profit Dashboard](https://github.com/buildwithhemant/ecommerce-profit-dashboard) | Real profit per order for Shopify and WooCommerce: syncs orders, joins product costs, payment fees, shipping and ad spend, flags orders with unknown costs, and shows margins per day, product and order on a React dashboard. Demo data in one command. | Node.js, TypeScript, Fastify, PostgreSQL, React, Shopify API, WooCommerce API, Docker |
 
 ## How I work
 
